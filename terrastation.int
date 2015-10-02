@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 LAST_COMPILE_TIME: 1443663377
-DIR: _maps _maps\map_files\complex _maps\map_files\generic _maps\map_files\MetaStation _maps\map_files\MiniStation _maps\map_files\MiniStation\job _maps\map_files\nanostation code code\game\jobs code\game\jobs\job code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species icons\misc 
+DIR: _maps _maps\map_files\complex _maps\map_files\generic _maps\map_files\MetaStation _maps\map_files\MiniStation _maps\map_files\MiniStation\job _maps\map_files\nanostation code code\game\jobs code\game\jobs\job code\modules code\modules\mob 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 508.1297
